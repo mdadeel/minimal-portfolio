@@ -8,7 +8,7 @@ This is a minimal, modern, black-and-white personal portfolio website created us
 - Contact section with email and LinkedIn
 
 ## Live Demo
-👉 [Your GitHub Pages URL here]
+👉 (https://mdadeel.github.io/minimal-portfolio/)
 
 ## How to Use
 - Clone this repository
